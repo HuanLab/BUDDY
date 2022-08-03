@@ -28,7 +28,7 @@ We provide a graphical user interface shown as below.
 - Batch export in a hierarchical manner (file – metabolic feature – candidate – explained MS/MS)
 
 ## User Manual
-Detailed instructions on `BUDDY` can be found in [BUDDY user munual](https://philipbear.github.io/BUDDY_Metabolomics).
+Detailed instructions on `BUDDY` can be found in [BUDDY user manual](https://philipbear.github.io/BUDDY_Metabolomics).
 ## Issue Report
 Any feedback or bug report is welcome. (https://github.com/Philipbear/BUDDY_Metabolomics/issues)
 ## Citation
