@@ -10,7 +10,19 @@ Bottom-up MS/MS interrogation aims to determine molecular formulae for all metab
 
 Check out [our Youtube tutorial video](https://www.youtube.com/watch?v=Ne_Y0vZ0WKI) here.
 
-## Quick Start
+&nbsp;
+&nbsp;
+# Upcoming Version
+
+We will be soon releasing a python package `pybuddy` (hopefully in Apr. 2023).
+
+If you want to use 'BUDDY' in large scale or in a more customizable manner, please stay tuned for [our latest release](https://github.com/Philipbear/pybuddy).
+
+
+&nbsp;
+&nbsp;
+
+## Quick Start (BUDDY GUI version)
 ### Installation
 `BUDDY` can be freely downloaded on this [GitHub release page](https://github.com/Philipbear/BUDDY_Metabolomics/releases).
 
