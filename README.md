@@ -18,6 +18,8 @@ We will be soon releasing a python package `pybuddy` (hopefully in Apr. 2023).
 
 If you want to use 'BUDDY' in large scale or in a more customizable manner, please stay tuned for [our latest release](https://github.com/Philipbear/pybuddy).
 
+You are welcome to contact me via **philipxsp@hotmail.com** should you have any questions or suggestions.
+
 
 &nbsp;
 &nbsp;
