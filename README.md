@@ -16,9 +16,9 @@ Check out [our Youtube tutorial video](https://www.youtube.com/watch?v=Ne_Y0vZ0W
 
 We will be soon releasing a python package `pybuddy` (hopefully in May 2023).
 
-If you want to use `BUDDY` in large scale or in a more customizable manner, please stay tuned for [our latest release](https://github.com/Philipbear).
+If you want to use `BUDDY` in large scale or in a more customizable manner, please stay tuned.
 
-You are welcome to contact me via **philipxsp@hotmail.com** should you have any questions or suggestions.
+You are welcome to contact Shipei Xing (**philipxsp@hotmail.com**) and Tao Huan (**thuan@chem.ubc.ca**) should you have any questions or suggestions.
 
 
 &nbsp;
