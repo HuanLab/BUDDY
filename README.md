@@ -10,16 +10,17 @@ Bottom-up MS/MS interrogation aims to determine molecular formulae for all metab
 
 Check out [our Youtube tutorial video](https://www.youtube.com/watch?v=Ne_Y0vZ0WKI) here.
 
+
 &nbsp;
 &nbsp;
-# Upcoming Version
+# Python packge & Command-line tool
 
-We will be soon releasing a python package `pybuddy` (hopefully in May 2023).
 
-If you want to use `BUDDY` in large scale or in a more customizable manner, please stay tuned.
+We have now released `msbuddy` as a Python package and a command-line tool. [Try it now](https://github.com/Philipbear/msbuddy)!
 
-You are welcome to contact Shipei Xing (**philipxsp@hotmail.com**) and Tao Huan (**thuan@chem.ubc.ca**) should you have any questions or suggestions.
+**msbuddy**: https://github.com/Philipbear/msbuddy
 
+**msbuddy documentation**: https://msbuddy.readthedocs.io/en/latest
 
 &nbsp;
 &nbsp;
