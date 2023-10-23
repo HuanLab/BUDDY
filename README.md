@@ -1,5 +1,34 @@
-# BUDDY
-[![Generic badge](https://img.shields.io/badge/BUDDY-ver_1.0-<COLOR>.svg)](https://github.com/Philipbear/BUDDY_Metabolomics)
+# msbuddy - Python packge & Command-line tool
+![Maintainer](https://img.shields.io/badge/maintainer-Shipei_Xing-blue)
+[![PyPI](https://img.shields.io/pypi/v/msbuddy?color=green)](https://pypi.org/project/msbuddy/)
+[![docs](https://readthedocs.org/projects/msbuddy/badge/?version=latest)](https://msbuddy.readthedocs.io/en/latest/?badge=latest)
+[![Generic badge](https://img.shields.io/badge/msbuddy-mass_spec_tools-<COLOR>.svg)](https://github.com/Philipbear/msbuddy)
+
+<p align="center">
+  <img src="https://github.com/Philipbear/msbuddy/blob/main/logo/logo.svg" alt="Sample Image" height="100"/>
+</p>
+
+
+We have now released `msbuddy` as a Python package and a command-line tool.
+
+**msbuddy**: https://github.com/Philipbear/msbuddy
+
+**msbuddy documentation**: https://msbuddy.readthedocs.io/en/latest
+
+
+&nbsp;
+&nbsp;
+
+> **Note**: `msbuddy` and `BUDDY` and two different tools that share the same core algorithm. They generate different annotation results.
+`msbuddy` is newly developed for flexible molecular formula analysis with refined algorithmic design and model training.
+We'd recommend using `msbuddy` for latest analysis.
+
+
+&nbsp;
+&nbsp;
+
+# BUDDY - GUI
+[![Generic badge](https://img.shields.io/badge/BUDDY-ver_1.7-<COLOR>.svg)](https://github.com/Philipbear/BUDDY_Metabolomics)
 ![Maintainer](https://img.shields.io/badge/maintainer-Shipei_Xing-blue)
 
 <img src = "https://github.com/Philipbear/BUDDY_Metabolomics/blob/main/image/AppIcon.png" align="right" width = "150" height = "150">
@@ -13,20 +42,9 @@ Check out [our Youtube tutorial video](https://www.youtube.com/watch?v=Ne_Y0vZ0W
 
 &nbsp;
 &nbsp;
-# Python packge & Command-line tool
 
 
-We have now released `msbuddy` as a Python package and a command-line tool. [Try it now](https://github.com/Philipbear/msbuddy)!
-
-**msbuddy**: https://github.com/Philipbear/msbuddy
-
-**msbuddy documentation**: https://msbuddy.readthedocs.io/en/latest
-
-&nbsp;
-&nbsp;
-
-
-## Quick Start (BUDDY GUI version)
+## Quick Start
 ### Installation
 `BUDDY` can be freely downloaded on this [GitHub release page](https://github.com/Philipbear/BUDDY_Metabolomics/releases).
 
