@@ -15,8 +15,6 @@ We have now released `msbuddy` as a Python package and a command-line tool.
 
 **msbuddy documentation**: https://msbuddy.readthedocs.io/en/latest
 
-
-&nbsp;
 &nbsp;
 
 **msbuddy** is also available as a [workflow on GNPS2](https://gnps2.org/workflowinput?workflowname=msbuddy_workflow).
