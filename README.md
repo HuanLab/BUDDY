@@ -19,6 +19,11 @@ We have now released `msbuddy` as a Python package and a command-line tool.
 &nbsp;
 &nbsp;
 
+**msbuddy** is also available as a [workflow on GNPS2](https://gnps2.org/workflowinput?workflowname=msbuddy_workflow).
+
+&nbsp;
+&nbsp;
+
 > **Note**:
 `msbuddy` is newly developed for flexible molecular formula analysis with refined algorithmic design and model training.
 `msbuddy` will be actively updated, and `BUDDY` is now archived due to the restriction of usage on different operating systems. We aim to provide a more customizable and more accurate solution.
